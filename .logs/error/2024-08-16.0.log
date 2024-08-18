@@ -720,3 +720,7 @@ com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long
 2024-08-16 17:01:35  ERROR --- [com.team5.hospital_here.common.exception.GlobalExceptionHandler]: ### ERROR!! code: 403, code name: POST_LIKE_NOT_FOUND, code message: 이미 싫어요를 누른 게시글입니다.
 2024-08-16 17:01:37  ERROR --- [com.team5.hospital_here.common.exception.GlobalExceptionHandler]: ### ERROR!! code: 403, code name: POST_ALREADY_LIKED, code message: 이미 좋아요를 누른 게시글입니다.
 2024-08-16 17:02:01  ERROR --- [com.team5.hospital_here.common.exception.GlobalExceptionHandler]: ### ERROR!! code: 400, code name: USER_NOT_FOUND, code message: 사용자를 찾을 수 없음
+2024-08-16 22:24:06  ERROR --- [com.team5.hospital_here.common.exception.GlobalExceptionHandler]: ### ERROR!! code: 404, code name: CHAT_ROOM_NOT_EXIST, code message: 채팅방 목록이 없습니다
+2024-08-16 22:24:07  ERROR --- [com.team5.hospital_here.common.exception.GlobalExceptionHandler]: ### ERROR!! code: 404, code name: CHAT_ROOM_NOT_EXIST, code message: 채팅방 목록이 없습니다
+2024-08-16 22:26:10  ERROR --- [com.team5.hospital_here.common.exception.GlobalExceptionHandler]: ### ERROR!! code: 400, code name: USER_NOT_FOUND, code message: 사용자를 찾을 수 없음
+2024-08-16 22:26:16  ERROR --- [com.team5.hospital_here.common.exception.GlobalExceptionHandler]: ### ERROR!! code: 400, code name: USER_NOT_FOUND, code message: 사용자를 찾을 수 없음
