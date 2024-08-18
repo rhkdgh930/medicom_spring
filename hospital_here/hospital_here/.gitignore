@@ -39,5 +39,3 @@ out/
 ### Spring ###
 ../.logs/
 
-application.properties
-.env
